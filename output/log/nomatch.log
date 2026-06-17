@@ -15,23 +15,10 @@ CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?au
 CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-CGTN,https://0472.org/hls/cgtn.m3u8
 CCTV-Weapon & Technology (1080p),http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CCTV-Women's Fashion (1080p),http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CCTV-World Geography (1080p),http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
@@ -47,19 +34,23 @@ Jiangxi Public & Agriculture Channel,https://play-live-hls.jxtvcn.com.cn/live-ci
 Jilin City Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 Jilin Lifestyle Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 Jilin Rural Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
-上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Nei Monggol TV (960p),https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
-上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+Shanghai Education Television Station,http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
+Shenzhen Satellite TV (2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
+STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
